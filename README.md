@@ -183,28 +183,10 @@ Los scripts generan:
 - **Archivos JSON** con datos estructurados
 - **Reportes de texto** con hallazgos principales
 
-## Citar este Trabajo
-
-```bibtex
-@article{palacios2025construir,
-  title={Construir la música legítima: estrategias léxicas y poder simbólico en la prensa del modernismo español (El Sol, España y Ondas, 1915-1935)},
-  author={Palacios Nieto, María},
-  journal={[Revista]},
-  year={2025},
-  institution={Universidad de Salamanca},
-  note={Proyecto LexiMus (PID2022-139589NB-C33)}
-}
-```
 
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-
-**María Palacios Nieto**
-Universidad de Salamanca
-Proyecto LexiMus: Léxico y Ontología de la Música en Español
 
 ## Agradecimientos
 
@@ -214,17 +196,8 @@ Este proyecto ha sido financiado por:
 - Instituto Complutense de Ciencias Musicales
 - Universidad de La Rioja
 
-Agradecimiento especial a **Eric Lease Morgan** por el desarrollo de Distant Reader.
-
-## Referencias Bibliográficas
-
-- Bourdieu, P. (1979). *La Distinction*. Minuit.
-- De Bolla, P. (2013). *The Architecture of Concepts*. Fordham University Press.
-- Fairclough, N. (2010). *Critical Discourse Analysis*. Routledge.
-- Koselleck, R. (2004). *Futures Past*. Columbia University Press.
-- Van Dijk, T. (2001). *Critical Discourse Analysis*. Handbook of Discourse Analysis.
 
 ---
 
-**Generado:** Noviembre 2024
+**Generado:** Noviembre 2025
 **Versión:** 1.0
