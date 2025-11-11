@@ -26,35 +26,6 @@ Universidad de Salamanca
 
 **Autora:** María Palacios Nieto
 **Institución:** Universidad de Salamanca
-**Área:** Musicología Digital, Humanidades Digitales
-
-## Marco Teórico
-
-El análisis se fundamenta en tres ejes teóricos:
-
-- **Análisis Crítico del Discurso** (Van Dijk, Fairclough)
-- **Campos de Poder Simbólico** (Bourdieu)
-- **Historia Conceptual** (Koselleck, De Bolla)
-
-## Hallazgos Principales
-
-### Categorías Semánticas Identificadas
-
-| Categoría | % del Corpus | Ejemplos |
-|-----------|--------------|----------|
-| Nacionalidad | 17.6% | española, francesa, alemana, rusa |
-| Tipo de música | 14.7% | sinfónica, coral, operística, ligera |
-| Modernidad/Novedad | 10.9% | moderna, contemporánea, nueva, actual |
-| Valoración positiva | 3.9% | excelente, hermosa, sublime, admirable |
-| Carácter social | 6.2% | aristocrática, popular, culta, seria |
-| Valoración negativa | 0.4% | inferior, mediocre, vulgar |
-
-### Patrones Discursivos Clave
-
-1. **Paradigma Nacionalista**: El Sol lidera con "música española" (10.7% del discurso)
-2. **Discurso de Modernidad**: 13.9% de adjetivos relacionados con lo nuevo/contemporáneo
-3. **Jerarquización Estética**: Clara dicotomía "música seria" vs. "música ligera"
-4. **Hegemonía Francesa**: "Música francesa" supera ampliamente a otras geografías
 
 ## Estructura del Repositorio
 
@@ -159,7 +130,6 @@ python scripts/analizador_valoraciones_critica_mejorado.py
 
 Los textos originales fueron extraídos de:
 - Hemeroteca Digital de la Biblioteca Nacional de España
-- Hemeroteca Municipal de Madrid
 
 ### Datos Procesados
 
@@ -177,18 +147,6 @@ Los scripts generan:
 - **Archivos JSON** con datos estructurados
 - **Reportes de texto** con hallazgos principales
 
-## Citar este Trabajo
-
-```bibtex
-@article{palacios2025construir,
-  title={Construir la música legítima: estrategias léxicas y poder simbólico en la prensa del modernismo español (El Sol, España y Ondas, 1915-1935)},
-  author={Palacios Nieto, María},
-  journal={[Revista]},
-  year={2025},
-  institution={Universidad de Salamanca},
-  note={Proyecto LexiMus (PID2022-139589NB-C33)}
-}
-```
 
 ## Licencia
 
@@ -208,15 +166,7 @@ Este proyecto ha sido financiado por:
 - Instituto Complutense de Ciencias Musicales
 - Universidad de La Rioja
 
-## Referencias Bibliográficas
 
-- Bourdieu, P. (1979). *La Distinction*. Minuit.
-- Fairclough, N. (2010). *Critical Discourse Analysis*. Routledge.
-- Van Dijk, T. (2001). *Critical Discourse Analysis*. Handbook of Discourse Analysis.
-- Koselleck, R. (2004). *Futures Past*. Columbia University Press.
-- De Bolla, P. (2013). *The Architecture of Concepts*. Fordham University Press.
-
----
 
 **Generado:** Noviembre 2024
 **Versión:** 1.0
