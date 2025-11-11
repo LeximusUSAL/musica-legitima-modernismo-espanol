@@ -32,10 +32,6 @@ Puede consultarse el corpus utilizado en esta investigación, en formato **carre
 PID2022-139589NB-C33
 Universidad de Salamanca
 
-**Autora:** María Palacios Nieto
-**Institución:** Universidad de Salamanca
-**Área:** Musicología Digital, Humanidades Digitales
-
 ## Marco Teórico
 
 El análisis se fundamenta en tres ejes teóricos:
