@@ -6,7 +6,7 @@
 
 ## Descripción del Proyecto
 
-Este repositorio contiene el código, datos y documentación de la investigación **"Construir la música legítima: estrategias léxicas y poder simbólico en la prensa del modernismo español (El Sol, España y Ondas, 1915-1935)"**.
+Este repositorio contiene el código, datos y documentación de la investigación **"Construir la música legítima: estrategias léxicas y poder simbólico en la prensa del modernismo español (El Sol, España y Ondas, 1915-1935)"**. Los datos de autoría del repositorio se han anonimizado porque el texto se encuentra actualmente en estado de revisión por pares. 
 
 La investigación analiza la adjetivación del concepto "música" como estrategia discursiva para legitimar jerarquías culturales en tres publicaciones paradigmáticas del modernismo español. Mediante metodologías mixtas que combinan análisis cualitativo tradicional con procesamiento de lenguaje natural (NLP), se identificaron **5.607 adjetivos asociados al término "música"** en un corpus de **2.535.146 palabras** distribuidas en **1.842 archivos**.
 
@@ -31,34 +31,6 @@ Puede consultarse el corpus utilizado en esta investigación, en formato **carre
 **LexiMus: Léxico y Ontología de la Música en Español**
 PID2022-139589NB-C33
 Universidad de Salamanca
-
-## Marco Teórico
-
-El análisis se fundamenta en tres ejes teóricos:
-
-- **Análisis Crítico del Discurso** (Van Dijk, Fairclough)
-- **Campos de Poder Simbólico** (Bourdieu)
-- **Historia Conceptual** (Koselleck, De Bolla)
-
-## Hallazgos Principales
-
-### Categorías Semánticas Identificadas
-
-| Categoría | % del Corpus | Ejemplos |
-|-----------|--------------|----------|
-| Nacionalidad | 17.6% | española, francesa, alemana, rusa |
-| Tipo de música | 14.7% | sinfónica, coral, operística, ligera |
-| Modernidad/Novedad | 10.9% | moderna, contemporánea, nueva, actual |
-| Valoración positiva | 3.9% | excelente, hermosa, sublime, admirable |
-| Carácter social | 6.2% | aristocrática, popular, culta, seria |
-| Valoración negativa | 0.4% | inferior, mediocre, vulgar |
-
-### Patrones Discursivos Clave
-
-1. **Paradigma Nacionalista**: El Sol lidera con "música española" (10.7% del discurso)
-2. **Discurso de Modernidad**: 13.9% de adjetivos relacionados con lo nuevo/contemporáneo
-3. **Jerarquización Estética**: Clara dicotomía "música seria" vs. "música ligera"
-4. **Hegemonía Francesa**: "Música francesa" supera ampliamente a otras geografías
 
 ## Estructura del Repositorio
 
