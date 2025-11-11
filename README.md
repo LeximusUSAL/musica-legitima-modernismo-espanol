@@ -133,9 +133,7 @@ python scripts/analizador_valoraciones_critica_mejorado.py
 
 ### Corpus Originales
 
-Los textos originales fueron extraídos de:
-- Hemeroteca Digital de la Biblioteca Nacional de España
-- Hemeroteca Municipal de Madrid
+Los textos originales fueron extraídos de la Hemeroteca Digital de la Biblioteca Nacional de España
 
 El corpus completo está disponible en formato **Distant Reader (carrel)** creado por Eric Lease Morgan. Ver enlaces en la sección [Acceso al Corpus](#acceso-al-corpus).
 
