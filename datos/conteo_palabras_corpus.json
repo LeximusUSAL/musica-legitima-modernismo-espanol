@@ -1,0 +1,30 @@
+{
+  "fecha": "2025-11-07",
+  "corpus_total": {
+    "archivos": 2013,
+    "archivos_procesados": 2013,
+    "palabras_totales": 2535934,
+    "promedio_palabras_archivo": 1259.778440139096
+  },
+  "ONDAS": {
+    "nombre": "ONDAS (1925-1935)",
+    "archivos": 276,
+    "archivos_procesados": 276,
+    "palabras": 1068223,
+    "promedio": 3870.373188405797
+  },
+  "El_Sol": {
+    "nombre": "El Sol (1918-1936)",
+    "archivos": 1427,
+    "archivos_procesados": 1427,
+    "palabras": 1333909,
+    "promedio": 934.7645409950946
+  },
+  "Revista_ESPAÑA": {
+    "nombre": "Revista ESPAÑA (1915-1924)",
+    "archivos": 310,
+    "archivos_procesados": 310,
+    "palabras": 133802,
+    "promedio": 431.6193548387097
+  }
+}

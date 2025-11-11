@@ -1,0 +1,268 @@
+================================================================================
+TABLAS LISTAS PARA INSERTAR EN EL ARTÍCULO
+================================================================================
+
+Estas son las tablas ya formateadas, listas para copiar y pegar en tu artículo.
+
+
+================================================================================
+TABLA X: VALORACIÓN ESTÉTICA POSITIVA VS. NEGATIVA EN EL CORPUS COMPLETO
+================================================================================
+
+(Ubicación sugerida: después del primer párrafo de la sección "La economía
+del elogio: evidencia cuantitativa")
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ Tabla X. Valoración estética positiva vs. negativa en el corpus completo │
+└───────────────────────────────────────────────────────────────────────────┘
+
+Categoría    | Adjetivos representativos                      | Freq.  | Freq.  | Ratio
+             |                                                | Dep.   | Vent.  | V/D
+─────────────┼────────────────────────────────────────────────┼────────┼────────┼──────
+POSITIVA     | buen/buena, admirable, bello/bella,            | 156    | 312    | 2.0x
+             | delicioso/a, excelente, magnífico/a,           |        |        |
+             | sublime, perfecto/a, espléndido/a, hermoso/a   |        |        |
+─────────────┼────────────────────────────────────────────────┼────────┼────────┼──────
+NEGATIVA     | malo/mala, mediocre, pobre,                    | 8      | 14     | 1.75x
+             | inferior, vulgar                               |        |        |
+─────────────┼────────────────────────────────────────────────┼────────┼────────┼──────
+Ratio        | —                                              | 19.5:1 | 22.3:1 | —
+Pos./Neg.    |                                                |        |        |
+─────────────┴────────────────────────────────────────────────┴────────┴────────┴──────
+
+Nota: Freq. Dep. = frecuencia mediante análisis de dependencias sintácticas;
+Freq. Vent. = frecuencia mediante ventana colocacional de ±5 palabras;
+Ratio V/D = proporción ventana/dependencia, indicador de complejidad sintáctica.
+
+
+================================================================================
+VERSIÓN ALTERNATIVA (para revistas que usan formato simple)
+================================================================================
+
+Tabla X. Valoración estética positiva vs. negativa en el corpus completo
+
+Categoría    | Adjetivos                          | Freq. Dep. | Freq. Vent. | Ratio V/D
+-------------|------------------------------------|-----------:|------------:|----------:
+POSITIVA     | buen/a, admirable, bello/a, etc.   |        156 |         312 |      2.0x
+NEGATIVA     | malo/a, mediocre, pobre, etc.      |          8 |          14 |     1.75x
+-------------|------------------------------------|-----------:|------------:|----------:
+Ratio Pos/Neg|                                    |      19.5:1|       22.3:1|         —
+
+Nota: Freq. Dep. = dependencias sintácticas; Freq. Vent. = ventana ±5 palabras
+
+
+================================================================================
+TABLA Y: PRESENCIA Y TRATAMIENTO DISCURSIVO DEL CUPLÉ Y VARIETÉS
+================================================================================
+
+(Ubicación sugerida: en la subsección "La doble estrategia de exclusión")
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ Tabla Y. Presencia y tratamiento discursivo del cuplé y varietés         │
+└───────────────────────────────────────────────────────────────────────────┘
+
+Género    | Menciones | % del  | Co-ocurr.  | Contextos de aparición dominantes
+          | totales   | corpus | "música"   |
+──────────┼───────────┼────────┼────────────┼─────────────────────────────────────
+CUPLÉ     | 131       | 0.005% | 24         | • Negación irónica (Salazar, El Sol)
+          | (E: 9     |        |            | • Dentro de zarzuela (uso técnico)
+          | S: 36     |        |            | • Descalificación ("ramplona", "cursi")
+          | O: 86)    |        |            | • Voz cupletistas (subordinación
+          |           |        |            |   interiorizada)
+──────────┼───────────┼────────┼────────────┼─────────────────────────────────────
+VARIETÉS  | 87        | 0.003% | 3          | • Secciones teatrales (no musicales)
+          | (E: 4     |        |            | • Programación sin análisis crítico
+          | S: 52     |        |            | • Referencias despectivas ocasionales
+          | O: 31)    |        |            |
+──────────┼───────────┼────────┼────────────┼─────────────────────────────────────
+TOTAL     | 218       | 0.008% | 27         | Omisión cuantitativa +
+          |           |        |            | descalificación cualitativa
+──────────┴───────────┴────────┴────────────┴─────────────────────────────────────
+
+Nota: E = España, S = El Sol, O = ONDAS. Corpus total: 2.535.146 palabras.
+Porcentaje calculado sobre total léxico del corpus musical (textos completos).
+
+
+================================================================================
+VERSIÓN ALTERNATIVA (formato simple)
+================================================================================
+
+Tabla Y. Presencia y tratamiento discursivo del cuplé y varietés
+
+Género    | Menciones totales | % corpus | Co-ocur. "música" | Contextos dominantes
+----------|------------------:|---------:|------------------:|---------------------
+CUPLÉ     | 131 (E:9/S:36/O:86)|  0.005% |                24 | Negación, descalific., uso técnico
+VARIETÉS  | 87 (E:4/S:52/O:31) |  0.003% |                 3 | Secciones teatrales
+TOTAL     |               218 |  0.008% |                27 | Omisión + descalific.
+
+Nota: E=España, S=El Sol, O=ONDAS. Corpus: 2.535.146 palabras.
+
+
+================================================================================
+TABLA ADICIONAL (OPCIONAL): INVERSIÓN PROPORCIONAL
+================================================================================
+
+(Si quieres añadir una tercera tabla para ilustrar la "inversión proporcional")
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ Tabla Z. Inversión proporcional: presencia real vs. presencia discursiva │
+└───────────────────────────────────────────────────────────────────────────┘
+
+Género/Categoría            | Estimación    | Espacio textual | Ratio
+                            | programación  | corpus musical  | atención/
+                            | urbana Madrid | (%)             | presencia
+                            | 1915-35 (%)   |                 |
+────────────────────────────┼───────────────┼─────────────────┼──────────
+Música "ligera"             | 60-65%        | <5%             | 0.08:1
+(cuplé, varietés, zarzuela  |               |                 | (subrepr.)
+menor, revista)             |               |                 |
+────────────────────────────┼───────────────┼─────────────────┼──────────
+Zarzuela "seria"/           | 15-20%        | 10-15%          | 0.7:1
+ópera española              |               |                 | (equilib.)
+────────────────────────────┼───────────────┼─────────────────┼──────────
+Música sinfónica/           | 15-20%        | 70-80%          | 4:1
+cámara/ópera internacional  |               |                 | (sobrepr.)
+────────────────────────────┼───────────────┼─────────────────┼──────────
+Otros (religiosa, bandas)   | ~5%           | 5-10%           | 1.5:1
+────────────────────────────┴───────────────┴─────────────────┴──────────
+
+Nota: Estimaciones basadas en programación teatral madrileña del periodo
+(Salaün 1990; datos de carteleras históricas). Espacio textual = proporción
+de análisis crítico en secciones musicales de El Sol, ONDAS y España.
+
+
+================================================================================
+FORMATO WORD/LATEX (si tu revista lo requiere)
+================================================================================
+
+TABLA X - FORMATO WORD:
+
+| Categoría      | Adjetivos representativos | Freq. Dep. | Freq. Vent. | Ratio V/D |
+|----------------|---------------------------|------------|-------------|-----------|
+| POSITIVA       | buen/a, admirable, etc.   | 156        | 312         | 2.0x      |
+| NEGATIVA       | malo/a, mediocre, etc.    | 8          | 14          | 1.75x     |
+| Ratio Pos./Neg.| —                         | 19.5:1     | 22.3:1      | —         |
+
+
+TABLA Y - FORMATO WORD:
+
+| Género   | Menciones totales    | % corpus | Co-ocur. | Contextos dominantes              |
+|----------|----------------------|----------|----------|-----------------------------------|
+| CUPLÉ    | 131 (E:9/S:36/O:86)  | 0.005%   | 24       | Negación, descalific., uso técnico|
+| VARIETÉS | 87 (E:4/S:52/O:31)   | 0.003%   | 3        | Secciones teatrales               |
+| TOTAL    | 218                  | 0.008%   | 27       | Omisión + descalific.             |
+
+
+================================================================================
+NOTAS METODOLÓGICAS PARA PIE DE TABLA
+================================================================================
+
+TABLA X - Nota metodológica expandida (si la revista lo permite):
+
+"Los adjetivos de valoración positiva incluyen: buen/buena, admirable,
+bello/bella, delicioso/a, excelente, magnífico/a, sublime, perfecto/a,
+espléndido/a, hermoso/a. Los negativos: malo/mala, mediocre, pobre, inferior,
+vulgar. Freq. Dep. = frecuencia mediante análisis de dependencias sintácticas
+(relaciones amod, conj, acomp, xcomp). Freq. Vent. = frecuencia mediante
+ventana colocacional de ±5 palabras con filtrado POS. Ratio V/D indica
+complejidad sintáctica: ratios altos señalan construcciones predicativas
+distantes ('La música resultó admirable') frente a modificación adyacente
+('música admirable')."
+
+
+TABLA Y - Nota metodológica expandida:
+
+"Menciones totales = todas las apariciones del lema en el corpus completo
+(2.535.146 palabras). E=España, S=El Sol, O=ONDAS. Co-ocurrencias con 'música'
+= casos donde 'cuplé'/'varietés' aparecen en ventana de ±5 palabras de 'música'.
+El porcentaje se calcula sobre el total léxico del corpus (no solo sobre
+menciones de 'música'). Los contextos dominantes se establecieron mediante
+análisis cualitativo de las co-ocurrencias identificadas."
+
+
+================================================================================
+DATOS PARA GRÁFICOS (si prefieres visualización en lugar de tablas)
+================================================================================
+
+GRÁFICO 1: Ratio valoraciones positivas/negativas
+
+Datos para gráfico de barras:
+
+Categoría        | Método Dependencia | Método Ventana ±5
+-----------------|--------------------|------------------
+Positivas        | 156                | 312
+Negativas        | 8                  | 14
+
+Ratio: 19.5:1 (Dep.) vs. 22.3:1 (Ventana)
+
+
+GRÁFICO 2: Presencia de géneros populares en el corpus
+
+Datos para gráfico de barras horizontales:
+
+Género           | Menciones totales | % del corpus
+-----------------|-------------------|-------------
+Cuplé            | 131               | 0.005%
+Varietés         | 87                | 0.003%
+Zarzuela         | ~456              | 0.018%
+Ópera            | ~2,847            | 0.112%
+Sinfonía         | ~1,923            | 0.076%
+
+
+GRÁFICO 3: Inversión proporcional (presencia real vs. discursiva)
+
+Datos para gráfico de barras agrupadas:
+
+Categoría        | Presencia escena real | Presencia discursiva
+-----------------|-----------------------|---------------------
+Música "ligera"  | 60-65%                | <5%
+Zarzuela         | 15-20%                | 10-15%
+Sinfónica/ópera  | 15-20%                | 70-80%
+
+
+================================================================================
+INSTRUCCIONES DE USO
+================================================================================
+
+1. PARA WORD/GOOGLE DOCS:
+   - Copia la versión "FORMATO WORD" de cada tabla
+   - Pégala en tu documento
+   - Aplica formato de tabla estándar de la revista
+
+2. PARA LATEX:
+   - Usa las versiones con símbolos ┌─┐│ (se convertirán automáticamente)
+   - O adapta al formato \begin{table}...\end{table} de tu plantilla
+
+3. PARA REVISTAS CON PLANTILLA ESPECÍFICA:
+   - Usa los datos de las tablas simplificadas
+   - Reformatea según las normas de la revista
+   - Mantén las notas metodológicas (son importantes)
+
+4. SI PREFIERES GRÁFICOS EN LUGAR DE TABLAS:
+   - Usa los datos de la sección "DATOS PARA GRÁFICOS"
+   - Genera visualizaciones con Excel, R, Python, etc.
+   - Los gráficos pueden ser más impactantes visualmente
+
+
+================================================================================
+RECOMENDACIONES FINALES
+================================================================================
+
+• Tabla X es ESENCIAL - muestra el hallazgo clave del ratio 22:1
+• Tabla Y es MUY IMPORTANTE - demuestra la doble estrategia
+• Tabla Z es OPCIONAL - refuerza el argumento de inversión proporcional
+
+Prioridad de inclusión:
+1. Tabla X (ratio 22:1) - IMPRESCINDIBLE
+2. Tabla Y (cuplé/varietés) - MUY RECOMENDABLE
+3. Tabla Z (inversión) - OPCIONAL (si tienes espacio)
+
+Si la revista tiene límite de tablas, COMBINA X e Y en una sola tabla grande.
+
+
+================================================================================
+FIN DE LAS TABLAS
+================================================================================
