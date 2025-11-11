@@ -4,14 +4,13 @@
 
 **URL:** https://github.com/LeximusUSAL/musica-legitima-modernismo-espanol
 
-**Creado:** 11 noviembre 2024
+**Creado:** 11 noviembre 2025
 
 ## Contexto Académico
 
 **Proyecto:** LexiMus: Léxico y Ontología de la Música en Español
 **Código:** PID2022-139589NB-C33
 **Institución:** Universidad de Salamanca
-**Autora:** María Palacios Nieto
 
 ## Contenido del Repositorio
 
@@ -77,38 +76,6 @@ musica-legitima-modernismo-espanol/
 - Plotly.js 3.2.0
 - NLP: análisis morfológico, sintáctico y de dependencias
 
-### Categorías Semánticas
-
-1. Nacionalidad (17.6%)
-2. Tipo de música (14.7%)
-3. Modernidad/Novedad (10.9%)
-4. Valoración estética positiva (3.9%)
-5. Carácter social/funcional (6.2%)
-6. Cualidades expresivas (1.8%)
-7. Complejidad/Accesibilidad (1.5%)
-8. Diversidad cultural/Exotismo (1.7%)
-9. Tecnología/Radio (0.5%)
-10. Valoración estética negativa (0.4%)
-11. Otros (40.8%)
-
-## Hallazgos Principales
-
-### El Sol
-- "música española" (10.7%) - bigrama más frecuente
-- Total referencias nacionales: 19.7%
-- Modernidad/contemporaneidad: 13.9%
-- "francesa" (3.2%) > "rusa" (1.2%)
-
-### Ondas
-- "variada" (8.7%) - característico del discurso radiofónico
-- "española" (6.0%)
-- Énfasis en accesibilidad: "ligera", "popular"
-
-### España
-- "rusa" (3.5%) - influencia Ballets Russes
-- Discurso regeneracionista
-- Menor densidad de adjetivación (fuente generalista)
-
 ## Scripts Destacados
 
 ### 1. detector_genero_musical.py
@@ -156,66 +123,7 @@ python scripts/analisis_semanticas_musica.py
 python scripts/detector_genero_musical.py
 ```
 
-## Topics de GitHub
-
-- digital-humanities
-- musicology
-- nlp
-- spacy
-- spanish-press
-- discourse-analysis
-- modernismo
-- cultural-studies
-- python
-
 ## Licencia
 
-MIT License - Universidad de Salamanca, 2024
+MIT License - Universidad de Salamanca, 2025
 
-## Cita Recomendada
-
-```bibtex
-@misc{palacios2024musicalegitima,
-  author = {Palacios Nieto, María},
-  title = {Construir la música legítima: Análisis léxico de la prensa del modernismo español},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/LeximusUSAL/musica-legitima-modernismo-espanol}},
-  note = {Proyecto LexiMus (PID2022-139589NB-C33)}
-}
-```
-
-## Estado del Proyecto
-
-- [x] Repositorio creado
-- [x] Scripts subidos (12 scripts)
-- [x] Datos subidos (18 archivos)
-- [x] Documentación completa
-- [x] README detallado
-- [x] Licencia MIT incluida
-- [x] Topics configurados
-- [ ] GitHub Pages (opcional)
-- [ ] DOI de Zenodo (opcional para cita académica)
-
-## Próximos Pasos Recomendados
-
-1. **Activar GitHub Pages** (opcional)
-   - Settings → Pages → Deploy from main branch
-
-2. **Crear Release v1.0** (opcional)
-   - Releases → Draft a new release
-   - Tag: v1.0.0
-
-3. **Obtener DOI de Zenodo** (recomendado para citas académicas)
-   - Conectar repositorio con Zenodo.org
-   - Genera DOI permanente para el proyecto
-
-4. **Añadir visualizaciones** (opcional)
-   - Subir imágenes de gráficos al README
-   - Crear GitHub Pages con visualizaciones interactivas
-
----
-
-**Fecha de creación:** 11 noviembre 2024
-**Última actualización:** 11 noviembre 2024
