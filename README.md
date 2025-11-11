@@ -16,6 +16,14 @@ La investigación analiza la adjetivación del concepto "música" como estrategi
 2. **Ondas** (1925-1935) - 259 números, 1.023.495 palabras
 3. **España** (1915-1924) - 310 artículos, 132.182 palabras
 
+### Acceso al Corpus
+
+Puede consultarse el corpus utilizado en esta investigación, en formato **carrel de Distant Reader** (Eric Lease Morgan):
+
+- **El Sol**: https://leximususal.github.io/el-sol-spanish-filtered/index.txt
+- **Ondas**: https://leximususal.github.io/ondas-carrel/index.txt
+- **Semanario España**: https://leximususal.github.io/revista-espana-carrel/index.txt
+
 ## Contexto Académico
 
 **Investigación realizada dentro del Proyecto LexiMus:**
@@ -26,12 +34,43 @@ Universidad de Salamanca
 
 **Autora:** María Palacios Nieto
 **Institución:** Universidad de Salamanca
+**Área:** Musicología Digital, Humanidades Digitales
+
+## Marco Teórico
+
+El análisis se fundamenta en tres ejes teóricos:
+
+- **Análisis Crítico del Discurso** (Van Dijk, Fairclough)
+- **Campos de Poder Simbólico** (Bourdieu)
+- **Historia Conceptual** (Koselleck, De Bolla)
+
+## Hallazgos Principales
+
+### Categorías Semánticas Identificadas
+
+| Categoría | % del Corpus | Ejemplos |
+|-----------|--------------|----------|
+| Nacionalidad | 17.6% | española, francesa, alemana, rusa |
+| Tipo de música | 14.7% | sinfónica, coral, operística, ligera |
+| Modernidad/Novedad | 10.9% | moderna, contemporánea, nueva, actual |
+| Valoración positiva | 3.9% | excelente, hermosa, sublime, admirable |
+| Carácter social | 6.2% | aristocrática, popular, culta, seria |
+| Valoración negativa | 0.4% | inferior, mediocre, vulgar |
+
+### Patrones Discursivos Clave
+
+1. **Paradigma Nacionalista**: El Sol lidera con "música española" (10.7% del discurso)
+2. **Discurso de Modernidad**: 13.9% de adjetivos relacionados con lo nuevo/contemporáneo
+3. **Jerarquización Estética**: Clara dicotomía "música seria" vs. "música ligera"
+4. **Hegemonía Francesa**: "Música francesa" supera ampliamente a otras geografías
 
 ## Estructura del Repositorio
 
 ```
 musica-legitima-modernismo-espanol/
 ├── README.md                    # Este archivo
+├── RESUMEN_PROYECTO.md          # Guía completa del proyecto
+├── LICENSE                      # Licencia MIT
 ├── scripts/                     # Scripts de análisis Python
 │   ├── analisis_rapido_musica.py
 │   ├── analisis_semanticas_musica.py
@@ -45,16 +84,14 @@ musica-legitima-modernismo-espanol/
 │   ├── generar_graficos.py
 │   ├── generar_tabla_valoraciones.py
 │   └── refinar_analisis_musica.py
-├── datos/                       # Datos de análisis
-│   ├── analisis_completo_musica.json
-│   ├── analisis_filtrado_musica.json
-│   ├── comparacion_metodos_adjetivacion.csv
-│   ├── resultados_musica_spacy_completo.html
-│   ├── resultados_valoraciones_mejorado.json
-│   ├── LISTA_COMPLETA_ADJETIVOS_VALIDADOS_5607.txt
-│   └── [otros archivos de datos]
-└── docs/                        # Documentación
-    └── articulo_construir_musica_legitima.txt
+└── datos/                       # Datos de análisis
+    ├── analisis_completo_musica.json
+    ├── analisis_filtrado_musica.json
+    ├── comparacion_metodos_adjetivacion.csv
+    ├── resultados_musica_spacy_completo.html
+    ├── resultados_valoraciones_mejorado.json
+    ├── LISTA_COMPLETA_ADJETIVOS_VALIDADOS_5607.txt
+    └── [otros archivos de datos]
 ```
 
 ## Metodología
@@ -130,6 +167,9 @@ python scripts/analizador_valoraciones_critica_mejorado.py
 
 Los textos originales fueron extraídos de:
 - Hemeroteca Digital de la Biblioteca Nacional de España
+- Hemeroteca Municipal de Madrid
+
+El corpus completo está disponible en formato **Distant Reader (carrel)** creado por Eric Lease Morgan. Ver enlaces en la sección [Acceso al Corpus](#acceso-al-corpus).
 
 ### Datos Procesados
 
@@ -147,6 +187,18 @@ Los scripts generan:
 - **Archivos JSON** con datos estructurados
 - **Reportes de texto** con hallazgos principales
 
+## Citar este Trabajo
+
+```bibtex
+@article{palacios2025construir,
+  title={Construir la música legítima: estrategias léxicas y poder simbólico en la prensa del modernismo español (El Sol, España y Ondas, 1915-1935)},
+  author={Palacios Nieto, María},
+  journal={[Revista]},
+  year={2025},
+  institution={Universidad de Salamanca},
+  note={Proyecto LexiMus (PID2022-139589NB-C33)}
+}
+```
 
 ## Licencia
 
@@ -166,7 +218,17 @@ Este proyecto ha sido financiado por:
 - Instituto Complutense de Ciencias Musicales
 - Universidad de La Rioja
 
+Agradecimiento especial a **Eric Lease Morgan** por el desarrollo de Distant Reader.
 
+## Referencias Bibliográficas
 
-**Generado:** Noviembre 2025
+- Bourdieu, P. (1979). *La Distinction*. Minuit.
+- De Bolla, P. (2013). *The Architecture of Concepts*. Fordham University Press.
+- Fairclough, N. (2010). *Critical Discourse Analysis*. Routledge.
+- Koselleck, R. (2004). *Futures Past*. Columbia University Press.
+- Van Dijk, T. (2001). *Critical Discourse Analysis*. Handbook of Discourse Analysis.
+
+---
+
+**Generado:** Noviembre 2024
 **Versión:** 1.0
