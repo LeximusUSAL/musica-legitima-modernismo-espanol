@@ -8,7 +8,7 @@
 
 Este repositorio contiene el código, datos y documentación de la investigación **"Construir la música legítima: estrategias léxicas y poder simbólico en la prensa del modernismo español (El Sol, España y Ondas, 1915-1935)"**. Los datos de autoría del repositorio se han anonimizado porque la investigación se encuentra actualmente en revisión por pares. 
 
-La investigación analiza la adjetivación del concepto "música" como estrategia discursiva para legitimar jerarquías culturales en tres publicaciones paradigmáticas del modernismo español. Mediante metodologías mixtas que combinan análisis cualitativo tradicional con procesamiento de lenguaje natural (NLP), se identificaron **5.607 adjetivos asociados al término "música"** en un corpus de **2.535.146 palabras** distribuidas en **1.842 archivos**.
+En este proyecto se analiza la adjetivación del concepto "música" como estrategia discursiva para legitimar jerarquías culturales en tres publicaciones paradigmáticas del modernismo español. Mediante metodologías mixtas que combinan análisis cualitativo tradicional con procesamiento de lenguaje natural (NLP), se identificaron **5.607 adjetivos asociados al término "música"** en un corpus de **2.535.146 palabras** distribuidas en **1.842 archivos**.
 
 ### Publicaciones Analizadas
 
