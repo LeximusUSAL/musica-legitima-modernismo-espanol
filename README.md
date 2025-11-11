@@ -39,6 +39,8 @@ musica-legitima-modernismo-espanol/
 ├── README.md                    # Este archivo
 ├── RESUMEN_PROYECTO.md          # Guía completa del proyecto
 ├── LICENSE                      # Licencia MIT
+├── docs/                        # GitHub Pages
+│   └── index.html               # Visualización interactiva
 ├── scripts/                     # Scripts de análisis Python
 │   ├── analisis_rapido_musica.py
 │   ├── analisis_semanticas_musica.py
@@ -146,6 +148,14 @@ Los archivos JSON contienen:
 - Colocaciones y contextos
 
 ## Resultados y Visualizaciones
+
+### 🔗 Visualización Interactiva en Vivo
+
+**[Ver Resultados Completos (HTML Interactivo)](https://leximususal.github.io/musica-legitima-modernismo-espanol/)**
+
+Análisis completo con spaCy: categorías semánticas, frecuencias, gráficos interactivos y tablas detalladas.
+
+### Archivos Generados
 
 Los scripts generan:
 - **Gráficos interactivos HTML** (Plotly)
