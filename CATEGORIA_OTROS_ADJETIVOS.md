@@ -524,7 +524,7 @@ La categoría "OTROS" representa el **40.8% del corpus** debido a:
 5. **Vocabulario técnico-musical específico** no contemplado en categorías generales
 6. **Ruido de extracción automática** (sustantivos, nombres propios, números)
 
-### Recomendaciones para refinamiento:
+### Posibles análisis futuros para refinamiento del corpus:
 
 - **Categoría 12:** "Adjetivos de compositor/estilo" (albeniziana, wagneriana...)
 - **Categoría 13:** "Cualidades técnico-armónicas" (cromática, rítmica, armónica...)
